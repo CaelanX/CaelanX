@@ -16,6 +16,6 @@ I'm open to collaborate on anything simply contact me using the information belo
 ## 📫 How to reach me:
 **Email:** Caelann2@gmail.com
 **Linkedin** https://www.linkedin.com/in/caelan-neumann/
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaelanX)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaelanX)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaelanX)](https://github.com/anuraghazra/github-readme-stats)
  
 
