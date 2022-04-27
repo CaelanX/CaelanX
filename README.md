@@ -11,8 +11,6 @@ I'm open to collaborate on anything simply contact me using the information belo
 ## :books: Current Projects
 ###### Here are some things I'm currently working on
 * Odin Project
-* Decision Matrix Generator
-* Learning Bash in 60 days
 ## :mortar_board: Education
 * SAIT -  Software Development(Current)
 
