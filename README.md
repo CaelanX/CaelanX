@@ -2,7 +2,8 @@
 # Welcome to my Github 👋
 ## :alien:Introduction
 Hello, My name is Caelan and I'm an aspiring software developer from Calgary, AB.
-I currently work with Java, Python, HTML, CSS and JavaScript.
+I currently work with Java, Python, and JavaScript.
+In the process of learning the MERN stack.
 I'm open to collaborate on anything simply contact me using the information below.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaelanX)](https://github.com/anuraghazra/github-readme-stats)
