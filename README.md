@@ -10,6 +10,7 @@ I'm open to collaborate on anything simply contact me using the information belo
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 ## :books: Current Projects
 ###### Here are some things I'm currently working on
 * Fitness Management Platform
