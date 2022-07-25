@@ -12,9 +12,12 @@ I'm open to collaborate on anything simply contact me using the information belo
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ## :books: Current Projects
 ###### Here are some things I'm currently working on
-* Odin Project
+* Fitness Management Platform
+* Python Flask Calculator
+* Calgary Safety Application
 ## :mortar_board: Education
 * SAIT -  Software Development(Current)
+* University of Lethbridge - B.Sc Computer Science (2022-2024)
 
 ## 📫 How to reach me:
 **Email:** Caelann2@gmail.com
