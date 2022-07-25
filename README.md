@@ -2,8 +2,9 @@
 # Welcome to my Github 👋
 ## :alien:Introduction
 Hello, My name is Caelan and I'm an aspiring software developer from Calgary, AB.
-I currently work with Java, Python, and JavaScript.
-I am also the process of learning the MERN stack.
+I currently work with the MERN Stack, Java, Python, SQL and Flask.
+I am also experimenting with C++ to expand my horizons.
+
 I'm open to collaborate on anything simply contact me using the information below.
 
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/overview.svg#gh-dark-mode-only)
