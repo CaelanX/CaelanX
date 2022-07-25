@@ -6,9 +6,9 @@ I currently work with Java, Python, and JavaScript.
 I am also the process of learning the MERN stack.
 I'm open to collaborate on anything simply contact me using the information below.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaelanX)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaelanX)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ## :books: Current Projects
 ###### Here are some things I'm currently working on
 * Odin Project
