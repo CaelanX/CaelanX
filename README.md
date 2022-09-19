@@ -15,7 +15,7 @@ I'm open to collaborate simply contact me using the information below.
 * Python Flask Calculator
 * Calgary Safety Application
 ## :mortar_board: Education
-* SAIT -  Software Development(Current)
+* SAIT -  Software Development(Graduate 2022)
 * University of Lethbridge - B.Sc Computer Science (2022-2024)
 
 ## 📫 How to reach me:
