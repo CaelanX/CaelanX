@@ -12,7 +12,7 @@ I'm open to collaborate simply contact me using the information below.
 ## :books: Current Projects
 ###### Here are some things I'm currently working on
 * Fitness Management Platform
-* Python Flask Calculator
+* Calgary Traffic Camera Web Application
 * Calgary Safety Application
 ## :mortar_board: Education
 * SAIT -  Software Development(Graduate 2022)
