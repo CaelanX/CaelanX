@@ -1,7 +1,7 @@
 
 # Welcome to my Github 👋
 
-I'm open to collaborate simply contact me using the information below.
+I'm open to collaborate! Contact me using the information below.
 ## Github Stats
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/overview.svg#gh-light-mode-only)
