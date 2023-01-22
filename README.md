@@ -16,7 +16,7 @@ I'm open to collaborate! Contact me using the information below.
 * Calgary Safety Application
 ## :mortar_board: Education
 * SAIT -  Software Development(Graduate 2022)
-* University of Lethbridge - B.Sc Computer Science (2022-2024)
+* University of Lethbridge - B.Sc Computer Science (2022-Present)
 
 ## 📫 How to reach me:
 **Email:** Caelann2@gmail.com
