@@ -9,10 +9,6 @@ I'm open to collaborate! Contact me using the information below.
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-## :books: Current Learnings
-###### Here are some things I'm currently working on
-* React.js
-* NLP
 ## :mortar_board: Education
 * University of Lethbridge - B.Sc Computer Science (2022-Present)
 * SAIT -  Software Development(Graduate 2022)
