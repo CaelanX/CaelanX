@@ -1,7 +1,4 @@
 
-# Welcome to my Github 👋
-
-I'm open to collaborate! Contact me using the information below.
 ## Github Stats
 ![](https://raw.githubusercontent.com/Caelan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/overview.svg#gh-light-mode-only)
@@ -10,7 +7,7 @@ I'm open to collaborate! Contact me using the information below.
 ![](https://raw.githubusercontent.com/CaelanX/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## :mortar_board: Education
-* University of Lethbridge - B.Sc Computer Science (2022-Present)
+* University of Lethbridge - B.Sc Computer Science (Graduate 2024)
 * SAIT -  Software Development(Graduate 2022)
 
 ## 📫 How to reach me:
